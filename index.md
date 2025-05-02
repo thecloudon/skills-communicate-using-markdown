@@ -7,4 +7,6 @@
 ``` python3
 print ("Hello, World")
 ```
-
+- [ ] Learn more
+- [ ] Get into cloud role
+- [ ] Success! Good Job Don!
